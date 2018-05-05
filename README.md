@@ -15,4 +15,5 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 David | Rose E. Shere<br>
 PO Box 2108<br>
 Glen Ellen, CA 95442<br>
+USA<br>
 rose.e.shere@gmail.com
