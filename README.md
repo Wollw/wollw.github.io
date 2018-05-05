@@ -16,4 +16,4 @@ David | Rose E. Shere<br>
 PO Box 2108<br>
 Glen Ellen, CA 95442<br>
 USA<br>
-rose.e.shere@gmail.com
+rshere@wollw.com
