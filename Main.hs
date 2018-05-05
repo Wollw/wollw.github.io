@@ -21,6 +21,4 @@ greet event = do
 
 main :: Fay ()
 main = do
-  --putStrLn "Hello Console!"
-  --alert "Hello Alert!"
   addWindowEvent "load" greet
