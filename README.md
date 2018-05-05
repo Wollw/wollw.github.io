@@ -6,4 +6,4 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 
 [Visit my repositories on GitHub.](https://github.com/Wollw)
 
-![Heaven Opened Up and Bled Into the World](img/heaven_opened_up_and_bled_into_the_world.jpg =512x)
+![Heaven Opened Up and Bled Into the World](img/heaven_opened_up_and_bled_into_the_world.jpg){:width="512px" height="512px"}
