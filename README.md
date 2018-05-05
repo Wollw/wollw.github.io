@@ -12,4 +12,4 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 ![Ulex](img/ulex.jpg)
 ![Bride](img/bride.jpg)
 ![Dar](img/dar.jpg)
-![Wireless Technology(img/wireless_technology.jpg)
+![Wireless Technology](img/wireless_technology.jpg)
