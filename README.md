@@ -12,7 +12,7 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 ![Wireless Technology](img/wireless_technology.jpg)
 
 ## Address
-David | Rose E. Shere
-PO Box 2108
-Glen Ellen, CA 95442
+David | Rose E. Shere<br>
+PO Box 2108<br>
+Glen Ellen, CA 95442<br>
 rose.e.shere@gmail.com
