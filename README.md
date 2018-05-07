@@ -12,7 +12,7 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 ![Wireless Technology](img/wireless_technology.jpg)
 ![When Isn't a Poppy a Poppy?](img/when_isnt_a_poppy_a_poppy.jpg)
 
-## Address (Please Donate)
+## Address (Please Inquire)
 David | Rose E. Shere<br>
 PO Box 2108<br>
 Glen Ellen, CA 95442<br>
