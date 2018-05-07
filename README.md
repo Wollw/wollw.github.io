@@ -10,6 +10,7 @@ I am an Artist (Painting and Drawing) and Programmer (Haskell primarily).
 ![Daybreak](img/daybreak.jpg) ![Ulex](img/ulex.jpg)
 ![Bride](img/bride.jpg) ![Dar](img/dar.jpg)
 ![Wireless Technology](img/wireless_technology.jpg)
+![When Isn't a Poppy a Poppy?](img/when_isnt_a_poppy_a_poppy.jpg)
 
 ## Address (Please Donate)
 David | Rose E. Shere<br>
