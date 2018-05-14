@@ -8,6 +8,7 @@ After an educational gap that lead to an immersion in Western Theravada Buddhism
 
 [Visit my repositories on GitHub.](https://github.com/Wollw)
 
+![q2 (For Carmack)](img/q2.jpg)
 ![:wq](img/wq.jpg)
 ![When Isn't a Poppy a Poppy?](img/when_isnt_a_poppy_a_poppy.jpg)
 ![Wireless Technology](img/wireless_technology.jpg)
