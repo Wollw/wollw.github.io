@@ -1,4 +1,4 @@
-# David | Rose E. Shere
+# David "Rose" Shere
 
 Born and raised in Sonoma County just outside the Technology center that is the Bay Area, Shere walks the line between Traditional and Contemporary practices. An early introduction to Digital Art through a specialized High School program that emphasized a physical sketchbook as the most important aspect of the practice left a lasting impression, leading to acceptance into UC Santa Cruz's Fine Art Major where Painting and Drawing were a major focus. Informed and inspired by Richard Stallman and the Free Software Foundation an open stance is taken toward process and collaboration, through which the history of Religious Iconography enters in; a connection is drawn between the Logic of Computer Science and the Logic of the Holy Bible where the process is approached as Writing rather than Painting or Drawing.
 
@@ -24,7 +24,7 @@ After an educational gap that lead to an immersion in Western Theravada Buddhism
 ![Dar](img/dar.jpg)
 
 ## Address (Please Inquire)
-David | Rose E. Shere<br>
+David "Rose" Shere<br>
 PO Box 2108<br>
 Glen Ellen, CA 95442<br>
 USA<br>
