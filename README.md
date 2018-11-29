@@ -1,6 +1,6 @@
 # David Shere
 
-## I currently hope to ordain as a monk with a Faith based in the Catholic Vincentian Canon and an understanding of the Three Creeds.  If you or anyone you know can help me, financially (I have about $20k in Student Loan Debt) or otherwise please contact me.
+## I currently hope to ordain as a monk with a Faith based in the Catholic Vincentian Canon and an understanding of the Three Creeds.  If you or anyone you know can help me, financially (I have about $20k in Student Loan Debt) or otherwise, please contact me.
 
 # Statement
 
