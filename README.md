@@ -1,7 +1,5 @@
 # David Shere
 
-## I currently hope to ordain as a monk with a Faith based in the Catholic Vincentian Canon and an understanding of the Three Creeds.  If you or anyone you know can help me, financially (I have about $20k in Student Loan Debt) or otherwise, please contact me.  I am quite moved by the Philokalia and Eastern Christian praxis and believe my efforts in prayer are worth more than any painting.
-
 # Statement
 
 Born and raised in Sonoma County just outside the Technology center that is the Bay Area, Shere walks the line between Traditional and Contemporary practices. An early introduction to Digital Art through a specialized High School program that emphasized a physical sketchbook as the most important aspect of the practice left a lasting impression, leading to acceptance into UC Santa Cruz's Fine Art Major where Painting and Drawing were a major focus. Informed and inspired by Richard Stallman and the Free Software Foundation an open stance is taken toward process and collaboration, through which the history of Religious Iconography enters in; a connection is drawn between the Logic of Computer Science and the Logic of the Holy Bible where the process is approached as Writing rather than Painting or Drawing.
