@@ -13,7 +13,7 @@ After an educational gap that lead to an immersion in Western Theravada Buddhism
 # Psalms
 
 ![Psalm 69](img/psalm69.png)
-![Psalm 31](img/psalm31.png)
+![Psalm 31](img/psalm31color.png)
 ![Psalms](img/psalms.png)
 
 # Misc
