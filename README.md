@@ -10,11 +10,11 @@ After an educational gap that lead to an immersion in Western Theravada Buddhism
 
 [Visit my repositories on GitHub.](https://github.com/Wollw)
 
-#Psalms
+# Psalms
 
 ![Psalm 69](img/psalm69.png)
 
-#Misc
+# Misc
 
 ![Developers, Developers, Developers)](img/developers.jpg)
 ![q2 (For Carmack)](img/q2.jpg)
