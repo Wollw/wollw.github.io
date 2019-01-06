@@ -10,6 +10,10 @@ After an educational gap that lead to an immersion in Western Theravada Buddhism
 
 [Visit my repositories on GitHub.](https://github.com/Wollw)
 
+# Splayed
+
+![Beach](img/beach.gif)
+
 # Psalms
 
 ![Psalm 69](img/psalm69.png)
